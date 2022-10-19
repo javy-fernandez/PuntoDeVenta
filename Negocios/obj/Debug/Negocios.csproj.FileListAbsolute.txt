@@ -1,0 +1,11 @@
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\bin\Debug\Negocios.dll
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\bin\Debug\Negocios.pdb
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\bin\Debug\Datos.dll
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\bin\Debug\Datos.pdb
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\obj\Debug\Negocios.dll
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\obj\Debug\Negocios.pdb
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\bin\Debug\Entidades.dll
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Negocios\bin\Debug\Entidades.pdb

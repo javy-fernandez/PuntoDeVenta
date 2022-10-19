@@ -1,0 +1,11 @@
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Form1.resources
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb

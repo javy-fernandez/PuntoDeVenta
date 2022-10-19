@@ -1,0 +1,6 @@
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Entidades\bin\Debug\Entidades.dll
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Entidades\bin\Debug\Entidades.pdb
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Entidades\obj\Debug\Entidades.dll
+C:\GitHub\Csharp\TecnologiaBinaria\PuntoDeVenta\Entidades\obj\Debug\Entidades.pdb
